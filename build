@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+export FYNE_THEME=light
+go build -o ./tmp/copytype .
+appify -name "CopyType" -icon ./copytype.png ./tmp/copytype
+rm ./tmp/copytype
+
