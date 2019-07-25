@@ -2,6 +2,8 @@
 
 Types text instead of pasting.
 
+![Alt text](/screenshot.png?raw=true "Screenshot")
+
 #### How?
 
 Copy Text into the programm, set the seconds for the timer and hit the button.
